@@ -1,0 +1,15 @@
+﻿Build started 2018/4/24 14:12:00.
+     1>Project "E:\Data Structure\SearchAlgorithm\SearchAlgorithm\SearchAlgorithm.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\软件安装\Visual Studio 13.0\VC\bin\CL.exe /c /I"D:\软件安装\opencv\build\include" /I"D:\软件安装\opencv\build\include\opencv" /I"D:\软件安装\opencv\build\include\opencv2" /I"E:\1#liveface project\VS2013 Project\LiveFaceDetectProjectAuto\LiveFaceDetectProjectAuto\inc" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Search.cpp
+         Search.cpp
+     1>e:\data structure\searchalgorithm\searchalgorithm\search.cpp(143): warning C4154: deletion of an array expression; conversion to pointer supplied
+       Link:
+         D:\软件安装\Visual Studio 13.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Data Structure\SearchAlgorithm\Debug\SearchAlgorithm.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\软件安装\opencv\build\x86\vc12\staticlib" /LIBPATH:"D:\软件安装\opencv\build\x86\vc12\lib" /LIBPATH:"E:\1#liveface project\VS2013 Project\LiveFaceDetectProjectAuto\LiveFaceDetectProjectAuto\lib" opencv_ts300d.lib opencv_world300d.lib arcsoft_face_detection.lib Arcsoft_liveface.lib Arcsoft_liveface_Add.lib arcsoft_mobilecv.lib arcsoft_mobilecvd.lib mpbase.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Data Structure\SearchAlgorithm\Debug\SearchAlgorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Data Structure\SearchAlgorithm\Debug\SearchAlgorithm.lib" /MACHINE:X86 /nodefaultlib:libc Debug\main.obj
+         Debug\Search.obj
+         SearchAlgorithm.vcxproj -> E:\Data Structure\SearchAlgorithm\Debug\SearchAlgorithm.exe
+     1>Done Building Project "E:\Data Structure\SearchAlgorithm\SearchAlgorithm\SearchAlgorithm.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.90
